@@ -1,0 +1,130 @@
+[
+  {
+    "id": "f5c12f0f-5bb2-4a2c-83a1-581e3b51e781",
+    "nombreCategoria": "Frutas y Verduras"
+  },
+  {
+    "id": "679b47f6-2c02-4aef-9baf-8a927e0414c9",
+    "nombreCategoria": "Carnes y Aves"
+  },
+  {
+    "id": "a51570eb-0a24-45a1-a6e2-cbfe9e3cb345",
+    "nombreCategoria": "Pescados y Mariscos"
+  },
+  {
+    "id": "9f88ee39-8a13-4a2c-b57f-8838e380ce5c",
+    "nombreCategoria": "Productos Lácteos"
+  },
+  {
+    "id": "d0e40f36-1d72-490e-9be6-83cfd5b77586",
+    "nombreCategoria": "Panadería y Repostería"
+  },
+  {
+    "id": "a09e5f43-7c0b-4345-bcfc-b05f4a20ea62",
+    "nombreCategoria": "Alimentos enlatados"
+  },
+  {
+    "id": "b0a4f4f9-7e7f-4f8b-99e6-39ec6f118ea2",
+    "nombreCategoria": "Bebidas y Licores"
+  },
+  {
+    "id": "657c7fc1-3c6d-4be3-8481-2d1df83f43a4",
+    "nombreCategoria": "Cereales y Pastas"
+  },
+  {
+    "id": "d97197a6-49f5-4c0b-bd7a-d43fc42f5f24",
+    "nombreCategoria": "Snacks y Aperitivos"
+  },
+  {
+    "id": "8548d180-2ef0-40e6-9c6d-8d4867e905c0",
+    "nombreCategoria": "Condimentos y Especias"
+  },
+  {
+    "id": "48247d6d-b615-45c3-aef0-53b926b51249",
+    "nombreCategoria": "Productos Congelados"
+  },
+  {
+    "id": "a7db3724-246a-4e0d-a685-bdd177116198",
+    "nombreCategoria": "Higiene Personal"
+  },
+  {
+    "id": "d9dbd81b-56f0-4a06-aabf-7f996d6e0e6b",
+    "nombreCategoria": "Limpieza del Hogar"
+  },
+  {
+    "id": "33a01d8c-eb52-4430-a3a7-f1f408f07a11",
+    "nombreCategoria": "Cuidado del Bebé"
+  },
+  {
+    "id": "8c6a69c1-cf0d-4d6a-ba6d-2743e8923d71",
+    "nombreCategoria": "Cuidado de Mascotas"
+  },
+  {
+    "id": "c689996b-b350-4b5c-a52c-43dd6a8e541d",
+    "nombreCategoria": "Pan y Dulces"
+  },
+  {
+    "id": "f3617bfc-1f4f-44ea-80ec-b8e527f73aa0",
+    "nombreCategoria": "Pastas y Salsas"
+  },
+  {
+    "id": "8e7af2c5-7e9b-43c1-9ed0-c3a215a4a539",
+    "nombreCategoria": "Desayunos y Cereales"
+  },
+  {
+    "id": "2a3a1f0b-551d-435d-b1f5-9140074d9993",
+    "nombreCategoria": "Aceites y Vinagres"
+  },
+  {
+    "id": "8e24f0b6-70e4-4c18-8361-34dc1b899b67",
+    "nombreCategoria": "Dulces y Chocolates"
+  },
+  {
+    "id": "e3b1dd42-9dfb-43e6-9d23-9d755a6d1f63",
+    "nombreCategoria": "Arte y Manualidades"
+  },
+  {
+    "id": "27a21472-cd3a-405f-96c7-fbf61b4dfc41",
+    "nombreCategoria": "Productos Orgánicos"
+  },
+  {
+    "id": "349bc996-4a5d-4696-87b4-d1b9a6ae16f6",
+    "nombreCategoria": "Artículos de Cocina"
+  },
+  {
+    "id": "9b08f0a9-bb89-4d7e-8742-c2d3cc6e8c68",
+    "nombreCategoria": "Productos Sin Gluten"
+  },
+  {
+    "id": "4c1c60e2-88d3-412f-9201-38aaf544b31d",
+    "nombreCategoria": "Café y Té"
+  },
+  {
+    "id": "4baf2e2e-c43f-4dfb-87e1-93f2122d6114",
+    "nombreCategoria": "Comida Rápida"
+  },
+  {
+    "id": "42f7172a-ebf7-462e-b6b1-4f70d66098d1",
+    "nombreCategoria": "Comida Internacional"
+  },
+  {
+    "id": "28cfa202-5e63-42f4-97c2-72c7f1abac6c",
+    "nombreCategoria": "Productos de Temporada"
+  },
+  {
+    "id": "cbf4b993-cfb2-42de-b45c-95f6787dfc5d",
+    "nombreCategoria": "Suplementos Alimenticios"
+  },
+  {
+    "id": "3a83d2f6-2a99-4cd1-8dd7-6236e3a5489d",
+    "nombreCategoria": "Productos de Limpieza Ecológicos"
+  },
+  {
+    "id": "fe29f966-4807-4cf5-9bf3-ae28fe00b98c",
+    "nombreCategoria": "Ciencia y Tecnología"
+  },
+  {
+    "id": "6c9f23c0-f276-4a72-ab93-836b8042e73e",
+    "nombreCategoria": "Arte y Diseño"
+  }
+]

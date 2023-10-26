@@ -1,0 +1,13 @@
+# TypeScript output folder
+dist
+
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# local logs
+npm-debug.log
+.DS_Store
